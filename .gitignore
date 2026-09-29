@@ -1,11 +1,8 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
-notebooks/worksheet*.ipynb
-notebooks/solutions.ipynb
-notebooks/git-intro.ipynb
-notebooks/currency.ipynb
-notebooks/instructions.txt
+*.ipynb
+!notebooks/python_functions_demo.ipynb
 
 # Notebook-generated artefacts.
 notebooks/.ipynb_checkpoints/
