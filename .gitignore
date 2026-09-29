@@ -1,3 +1,12 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+# Original teaching materials kept locally for reference.
+notebooks/worksheet*.ipynb
+notebooks/solutions.ipynb
+notebooks/git-intro.ipynb
+notebooks/currency.ipynb
+notebooks/instructions.txt
+
+# Notebook-generated artefacts.
+notebooks/.ipynb_checkpoints/
